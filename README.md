@@ -51,7 +51,7 @@ Retrieval-Augmented Generation (RAG) enhances LLMs by injecting external knowled
 
 
 
-## 🚀 Getting Started Locally
+## Getting Started Locally
 
 ### 1. Clone the Repository
 
